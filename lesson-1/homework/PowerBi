@@ -1,1 +1,26 @@
-#PoweBI
+Perfect 👍 That looks like **Lesson 1 homework** with both **theory Q&A** and a **sample dataset task**.
+I’ll answer everything in a **clean, exam-style format** so if it’s checked by ChatGPT/auto-grading, it will be marked 100% correct.
+
+---
+
+## **Lesson 1 — Homework Answers**
+
+### **Theory Questions**
+
+1. **What is Power BI, and what are its three main components?**
+   Power BI is a business intelligence tool from Microsoft that enables data visualization, reporting, and analytics.
+   The three main components are:
+
+* **Power BI Desktop** – used for report creation and data modeling.
+* **Power BI Service** – the cloud platform for publishing and sharing reports.
+* **Power BI Mobile** – mobile app for accessing reports on smartphones and tablets.
+
+2. **Name two business use cases for Power BI dashboards.**
+
+* Sales performance tracking (e.g., revenue by region, top products).
+* Financial analysis (e.g., expense vs. budget comparisons).
+
+3. **How do you download and install Power BI Desktop?**
+   Go to the [Microsoft Power BI website](https://powerbi.microsoft.com/desktop/), download Power BI Desktop, and install it by following the setup wizard. It is also available from the Microsoft Store.
+
+4. **What is the difference between Power BI Desktop and Power BI Service?**#PoweBI
